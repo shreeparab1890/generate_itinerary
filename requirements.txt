@@ -1,4 +1,3 @@
-io
 Django
 openai
 spacy
