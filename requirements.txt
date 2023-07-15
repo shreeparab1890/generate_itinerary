@@ -1,8 +1,7 @@
 io
-Django==4.2.3
+Django
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
-openai==0.27.8
-spacy==3.6.0
-spacy-legacy==3.0.12
-spacy-loggers==1.0.4
+openai
+spacy
+
 
